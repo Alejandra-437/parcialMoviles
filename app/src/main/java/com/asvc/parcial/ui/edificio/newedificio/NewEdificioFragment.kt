@@ -1,4 +1,4 @@
-package com.asvc.parcial.ui.inicio.newedificio
+package com.asvc.parcial.ui.edificio.newedificio
 
 import androidx.fragment.app.Fragment
 

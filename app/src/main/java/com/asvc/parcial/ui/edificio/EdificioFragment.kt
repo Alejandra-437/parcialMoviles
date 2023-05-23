@@ -1,4 +1,6 @@
 package com.asvc.parcial.ui.edificio
 
-class EdificioFragment {
+import androidx.fragment.app.Fragment
+
+class EdificioFragment : Fragment() {
 }
